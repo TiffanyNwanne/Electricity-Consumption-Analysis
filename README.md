@@ -1,4 +1,6 @@
 # Electricity Consumption Analysis: Python & Tableau
+[![Tableau Dashboard](https://github.com/TiffanyNwanne/Electricity-Consumption-Analysis/blob/main/images/Residential%20Sector.png))](https://public.tableau.com/app/profile/tiffany.nwanne/viz/ElectricityConsumptionAnalysis_17379088123250/ResidentialSector)
+
 ## 🔹 Overview
 This project explores electricity consumption trends using Python for data analysis and Tableau for visualization. We examine how energy demand has changed over time, calculate Year-over-Year (YoY) growth, and assess how residential, Commercial, Industrial, and Transportation sectors contribute to total revenue, identify growth patterns, and use forecasting techniques to redict future electricity demands. 
 
