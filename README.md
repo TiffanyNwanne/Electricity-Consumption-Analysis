@@ -48,6 +48,8 @@ Key Forecasting Takeaways:
 ## Tableau
 To summarize insights, I built a KPI dashboard with three key indicators:
 
+[![Preview Image](https://github.com/TiffanyNwanne/Electricity-Consumption-Analysis/blob/main/images/Tableau%20KPIS.png))](https://github.com/TiffanyNwanne/Electricity-Consumption-Analysis/blob/main/images/Tableau%20KPIS.png)
+
 + 1️⃣ Total Electricity Sales (GWh) – Displays total energy consumption per year.
 + 2️⃣ YoY Growth (%) – Highlights whether electricity demand is rising or falling.
 + 3️⃣ Largest Contributing Sector – Identifies which sector contributes the most to overall revenue.
