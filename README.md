@@ -2,10 +2,12 @@
 [![Tableau Dashboard](https://github.com/TiffanyNwanne/Electricity-Consumption-Analysis/blob/main/images/Residential%20Sector.png))](https://public.tableau.com/app/profile/tiffany.nwanne/viz/ElectricityConsumptionAnalysis_17379088123250/ResidentialSector)
 
 ## 🔹 Overview
-This project explores electricity consumption trends using Python for data analysis and Tableau for visualization. We examine how energy demand has changed over time, calculate Year-over-Year (YoY) growth, and assess how residential, Commercial, Industrial, and Transportation sectors contribute to total revenue, identify growth patterns, and use forecasting techniques to redict future electricity demands. 
+This project explores electricity consumption trends using Python for data analysis and Tableau for visualization. I examined how energy demand has changed over time, calculate Year-over-Year (YoY) growth, and assess how residential, Commercial, Industrial, and Transportation sectors contribute to total revenue, identify growth patterns, and use forecasting techniques to redict future electricity demands. 
 
 ## Python
-Dataset Summary
+
+**Dataset Summary**
+
 The dataset contains electricity sales data across four key sectors:
 + Residential
 + Commercial
@@ -55,6 +57,16 @@ To summarize insights, I built a KPI dashboard with three key indicators:
 + 1️⃣ Total Electricity Sales (GWh) – Displays total energy consumption per year.
 + 2️⃣ YoY Growth (%) – Highlights whether electricity demand is rising or falling.
 + 3️⃣ Largest Contributing Sector – Identifies which sector contributes the most to overall revenue.
+
+## Business Impact & Key Takeaways
+This project provided critical insights for decision-makers in the energy sector:
+
+✔ Identified the Commercial sector as the fastest-growing revenue driver.
+✔ Helped optimize pricing strategies by sector.
+✔ Used predictive modeling to improve financial planning.
+✔ Built a real-time Tableau dashboard for monitoring revenue trends.
+
+
 
 
 
