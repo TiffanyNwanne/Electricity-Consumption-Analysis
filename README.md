@@ -61,7 +61,7 @@ To summarize insights, I built a KPI dashboard with three key indicators:
 ## Business Impact & Key Takeaways
 This project provided critical insights for decision-makers in the energy sector:
 
-+ ✔ Identified the Commercial sector as the fastest-growing revenue driver.
++ ✔ Identified the Residential sector as the fastest-growing revenue driver.
 
 + ✔ Helped optimize pricing strategies by sector.
 
