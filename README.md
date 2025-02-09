@@ -30,11 +30,6 @@ Before analysis, I:
 
 [![Preview Image](https://github.com/TiffanyNwanne/Electricity-Consumption-Analysis/blob/main/images/EIA%20Analysis%202.png))](https://github.com/TiffanyNwanne/Electricity-Consumption-Analysis/blob/main/images/EIA%20Analysis%201.png)
 
-[![Preview Image](https://github.com/TiffanyNwanne/Electricity-Consumption-Analysis/blob/main/images/EIA%20Data%20Exploration%201.png))](https://github.com/TiffanyNwanne/Electricity-Consumption-Analysis/blob/main/images/EIA%20Data%20Exploration%201.png)
-
-[![Preview Image](https://github.com/TiffanyNwanne/Electricity-Consumption-Analysis/blob/main/images/EIA%20Data%20Exploration%202.png))](https://github.com/TiffanyNwanne/Electricity-Consumption-Analysis/blob/main/images/EIA%20Data%20Exploration%201.png)
-
-[![Preview Image](https://github.com/TiffanyNwanne/Electricity-Consumption-Analysis/blob/main/images/EIA%20Data%20Exploration%203.png)](https://github.com/TiffanyNwanne/Electricity-Consumption-Analysis/blob/main/images/EIA%20Data%20Exploration%201.png)
 
 ### Forecasting Future Electricity Demand With Prophet
 
