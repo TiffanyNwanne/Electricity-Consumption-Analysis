@@ -24,7 +24,7 @@ Before analysis, I:
 + Calculated Year-over-Year (YoY) growth
 + Computed sector contribution percentages
 
-### Python for Data & Exploratory Analysis
+### Data Analysis
 
 [![Preview Image](https://github.com/TiffanyNwanne/Electricity-Consumption-Analysis/blob/main/images/EIA%20Analysis%201.png))](https://github.com/TiffanyNwanne/Electricity-Consumption-Analysis/blob/main/images/EIA%20Analysis%201.png)
 
