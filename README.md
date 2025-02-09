@@ -1,7 +1,7 @@
 # Electricity Consumption Analysis: Python & Tableau
 [![Tableau Dashboard](https://github.com/TiffanyNwanne/Electricity-Consumption-Analysis/blob/main/images/Residential%20Sector.png))](https://public.tableau.com/app/profile/tiffany.nwanne/viz/ElectricityConsumptionAnalysis_17379088123250/ResidentialSector)
 
-## 🔹 Overview
+## Overview
 This project explores electricity consumption trends using Python for data analysis and Tableau for visualization. I examined how energy demand has changed over time, calculate Year-over-Year (YoY) growth, and assess how residential, Commercial, Industrial, and Transportation sectors contribute to total revenue, identify growth patterns, and use forecasting techniques to redict future electricity demands. 
 
 ## Python
@@ -34,7 +34,7 @@ Before analysis, I:
 
 [![Preview Image](https://github.com/TiffanyNwanne/Electricity-Consumption-Analysis/blob/main/images/EIA%20Data%20Exploration%202.png))](https://github.com/TiffanyNwanne/Electricity-Consumption-Analysis/blob/main/images/EIA%20Data%20Exploration%201.png)
 
-[![Preview Image](https://github.com/TiffanyNwanne/Electricity-Consumption-Analysis/blob/main/images/EIA%20Data%20Exploration%203.png))](https://github.com/TiffanyNwanne/Electricity-Consumption-Analysis/blob/main/images/EIA%20Data%20Exploration%201.png)
+[![Preview Image](https://github.com/TiffanyNwanne/Electricity-Consumption-Analysis/blob/main/images/EIA%20Data%20Exploration%203.png)](https://github.com/TiffanyNwanne/Electricity-Consumption-Analysis/blob/main/images/EIA%20Data%20Exploration%201.png)
 
 ### Forecasting Future Electricity Demand With Prophet
 
